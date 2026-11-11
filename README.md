@@ -1,7 +1,7 @@
 ## Hi, I’m Ewan Wang 👋
 
-- [https://wyuuu.xyz/](https://wyuuu.xyz/)
-- [alexwy2003@gmail.com](mailto:alexwy2003@gmail.com)
+- **Personal website** · [https://wyuuu.xyz/](https://wyuuu.xyz/)
+- **Email** · [alexwy2003@gmail.com](mailto:alexwy2003@gmail.com)
 
 ### Selected projects
 
